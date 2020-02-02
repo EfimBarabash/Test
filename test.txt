@@ -1,4 +1,4 @@
 test
 Hello world !
-LearnJS
+Learn JS quickly
 AaBbCcDdFf git hyml css
